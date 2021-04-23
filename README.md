@@ -11,5 +11,6 @@ A simple program that allows you to open trendyol accounts
 - Go into main.py and change password from PASSWORD variable
 - Run the main.py file. CHEERS
 
+I can improve this much more, you can show the mistakes and what is wanted to be done in the [Issues] section.
 
-I can improve this much more, you can show the mistakes and what is wanted to be done in the "[Issues]": https://github.com/Andromeda606/Trendyol-Account-Generator/issues section.
+[Issues]: https://github.com/Andromeda606/Trendyol-Account-Generator/issues
